@@ -9,4 +9,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,nodejs,cpp,firebase,gradle,xd,ai,figma&theme=light)](https://skillicons.dev)
 
-![](https://komarev.com/ghpvc/?username=northernteenwolf)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=northernteenwolf)
