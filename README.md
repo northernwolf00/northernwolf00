@@ -7,4 +7,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=northernteenwolf&theme=dark)](https://git.io/streak-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,nodejs,cpp,firebase,gradle,xd,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,nodejs,cpp,firebase,gradle,xd,ai,figma&theme=light)](https://skillicons.dev)
