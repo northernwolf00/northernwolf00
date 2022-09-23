@@ -8,7 +8,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,nodejs,react,cpp,firebase,gradle,xd,ai,figma&theme=light)](https://skillicons.dev)
 
-
-
-
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=northernerwolf)
