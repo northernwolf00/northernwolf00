@@ -8,7 +8,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,nodejs,react,cpp,firebase,gradle,xd,ai,figma&theme=light)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=northernerwolf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=northernerwolf)
