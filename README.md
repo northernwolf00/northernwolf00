@@ -7,7 +7,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,nodejs,react,cpp,firebase,gradle,xd,ai,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,nodejs,react,cpp,flutter,dart,firebase,gradle,xd,ai,figma&theme=light)](https://skillicons.dev)
 
 
 
