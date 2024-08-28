@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Guvanch's+github+page;I+am+mobile+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Guvanch's+github+page)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=@:+guwanchaldurdyyew01@gmail.com)](https://git.io/typing-svg)
 
 
