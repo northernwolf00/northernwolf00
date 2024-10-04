@@ -7,12 +7,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,nodejs,react,cpp,flutter,dart,firebase,gradle,xd,ai,figma&theme=light)](https://skillicons.dev)
 
-<a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
- </a><a href="https://www.linkedin.com/in/" target="_blank">
+<a href="https://instagram.com/guwanc_haldurdyyev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+ </a><a href="https://www.linkedin.com/in/guwanch-haldurdyyev-7b8a2a243" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label" target="_blank">
  </a> <a href="https://facebook.com/" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=" target="_blank">
- </a><a href="https://t.me/" target="_blank">
+ </a><a href="https://t.me/northernerwolf" target="_blank">
      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" target="_blank">
  </a><a href = "https://twitter.com/"  target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" target="_blank"></a>
   <a href ="https://discordapp.com/users/"  target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" target="_blank"></a>
