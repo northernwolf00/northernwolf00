@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label" target="_blank">
  </a> <a href="https://www.facebook.com/profile.php?id=100093098223124&mibextid=ZbWKwL" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=" target="_blank">
- </a><a href="https://t.me/northernerwolf" target="_blank">
+ </a><a href="https://t.me/northern_wolf00" target="_blank">
      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" target="_blank">
  </a><a href = "https://x.com/northernerwolf7?t=yv25QRaObsG-nQKI0stpVw&s=35"  target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" target="_blank"></a>
   <a href ="https://discordapp.com/users/wolf290300"  target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" target="_blank"></a>
