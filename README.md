@@ -2,8 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome&fontSize=72&animation=fadeIn&fontAlignY=26&desc=&descAlignY=50&descAlign=50&fontAlign=77)
 
 <div align="center" >
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=northernerwolf&theme=react&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=northernwolf00&theme=react&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=northernwolf00&show_icons=true&theme=tokyonight)
+
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,swift,nodejs,react,cpp,flutter,dart,firebase,gradle,xd,ai,figma&theme=light)](https://skillicons.dev)
 
