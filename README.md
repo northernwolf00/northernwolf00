@@ -4,7 +4,6 @@
 <div align="center" >
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=northernwolf00&theme=react&hide_border=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=northernwolf00&show_icons=true&theme=tokyonight)
 
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,swift,nodejs,react,cpp,flutter,dart,firebase,gradle,xd,ai,figma&theme=light)](https://skillicons.dev)
