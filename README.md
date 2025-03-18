@@ -5,7 +5,7 @@
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=northernerwolf&theme=react&hide_border=true)
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,nodejs,react,cpp,flutter,dart,firebase,gradle,xd,ai,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,swift,nodejs,react,cpp,flutter,dart,firebase,gradle,xd,ai,figma&theme=light)](https://skillicons.dev)
 
 <a href="https://instagram.com/guwanc_haldurdyyev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
  </a><a href="https://www.linkedin.com/in/guwanch-haldurdyyev-7b8a2a243" target="_blank">
